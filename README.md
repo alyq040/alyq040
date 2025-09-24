@@ -12,38 +12,7 @@
 
 <h6 align="left">Project Goals:<br><br>Support and empower Egyptian artisans and craftsmen.<br><br>Preserve and promote traditional Egyptian handicrafts worldwide.<br><br>Attract tourists by showcasing heritage in a modern and creative way.<br><br>Create new job opportunities and boost local economy through crafts.</h6>
 
-###
 
-<h2 align="left"></h2>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="0" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="1" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="1" src=""  />
-</div>
 
 ###
 
