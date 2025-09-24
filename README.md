@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Team Members:<br><br>Aly Khaled Abdelaziz (leader) <br>Daniel Safwat Abdelsayed<br>George Maged Makram<br>Nada Ibrahim Amin <br>Rahma Salah Ali<br>Youssef Nady Fakhry</h6>
+<h6 align="left">Team Members:<br><br>Aly Khaled Abdelaziz <br>Daniel Safwat Abdelsayed<br>George Maged Makram<br>Nada Ibrahim Amin <br>Rahma Salah Ali<br>Youssef Nady Fakhry</h6>
 
 ###
 
@@ -12,12 +12,11 @@
 
 <h6 align="left">Project Goals:<br><br>Support and empower Egyptian artisans and craftsmen.<br><br>Preserve and promote traditional Egyptian handicrafts worldwide.<br><br>Attract tourists by showcasing heritage in a modern and creative way.<br><br>Create new job opportunities and boost local economy through crafts.</h6>
 
-
-
 ###
 
-<div align="center">
-  <img height="1" src="1"  />
+<h5 align="left">Aly khaled abdelaziz<br>1- انشاء الاستراتيجية الخاصة بالمشروع <br>2- انشاء محتوي 3 اسابيع كتابة و تصميم <br>Daniel Safwat Abdelsayed<br>1- انشاء ايميل لينكدان <br>2-انشاء موقع الكتروني <br>George Maged Makram<br>-------------<br>Nada Ibrahim Amin <br>1- انشاء محتوي كتابة 4 أيام<br>Rahma Salah Ali<br>1- انشاء ايميلات  facebook/instagram/tiktok <br>Youssef Nady Fakhry<br>1- انشاء محتوي جرافيك لمدة اسبوع <br>2- انشاء بريزينتيشن</h5>
+
+
 </div>
 
 ###
