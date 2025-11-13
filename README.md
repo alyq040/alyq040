@@ -6,11 +6,11 @@
 
 ###
 
-<h5 align="left">:Project Idea<br><br>"Our Heritage is a digital platform that unifies Egyptian artisans and workshops under one identity. The project aims to preserve traditional crafts, promote them globally, support local craftsmen, and create economic opportunities through modern digital marketing</h5>
+<h5 align="left">Project Idea<br><br>Our Heritage is a digital platform that unifies Egyptian artisans and workshops under one identity. The project aims to preserve traditional crafts, promote them globally, support local craftsmen, and create economic opportunities through modern digital marketing.<br>It also focuses on empowering women artisans by providing them with equal opportunities, training, and visibility ......helping hardworking women turn their skills into sustainable sources of income</h5>
 
 ###
 
-<h6 align="left">Project Goals:<br>1 Support and empower Egyptian artisans and craftsmen.<br>2 Preserve and promote traditional Egyptian handicrafts worldwide.<br>3 Attract tourists by showcasing heritage in a modern and creative way.<br>4 Create new job opportunities and boost local economy through crafts.</h6>
+<h6 align="left">Project Goals:<br>Support and empower Egyptian artisans and craftsmen.<br><br>Preserve and promote traditional Egyptian handicrafts worldwide.<br><br>Attract tourists by showcasing Egyptian heritage in a modern and creative way.<br><br>Create new job opportunities and boost the local economy through crafts.<br><br>Empower women artisans by providing them with training, exposure, and fair economic opportunities to help them achieve financial independence.</h6>
 
 ###
 
