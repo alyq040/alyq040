@@ -14,11 +14,11 @@
 
 ###
 
-<h5 align="left">Aly khaled abdelaziz<br>1- انشاء الاستراتيجية الخاصة بالمشروع <br>2- انشاء محتوي 3 اسابيع كتابة و تصميم <br>3- تصميم بريزنتيشن<br>4- انشاء content calendar<br>5- انشاء موقع الكتروني<br>Daniel Safwat Abdelsayed<br>1- انشاء ايميل لينكدان <br>George Maged Makram<br>-------------<br>Nada Ibrahim Amin <br>1- كتابة محتوي 7 أيام<br>Rahma Salah Ali<br>1- انشاء social media<br>Youssef Nady Fakhry<br>1- انشاء محتوي جرافيك لمدة اسبوع <br>2 محتوي كتابة لمده 10 ايام<br>2-  انشاء الأعلان الممول</h5>
+<h5 align="left">Aly khaled abdelaziz<br>1- انشاء الاستراتيجية الخاصة بالمشروع <br>2- انشاء محتوي 3 اسابيع كتابة و تصميم <br>3- تصميم بريزنتيشن<br>4- انشاء content calendar<br>5- انشاء موقع الكتروني<br>Daniel Safwat Abdelsayed<br>1- انشاء ايميل لينكدان <br>George Maged Makram<br>-------------<br>Nada Ibrahim Amin <br>1- كتابة محتوي 7 أيام<br>Rahma Salah Ali<br>1- انشاء صفحة فيسبوك و انستجرام<br>Youssef Nady Fakhry<br>1- انشاء محتوي جرافيك لمدة اسبوع <br>2 محتوي كتابة لمده 10 ايام<br>2-  انشاء الأعلان الممول</h5>
 
 ###
 
-<p align="left">https://www.canva.com/design/DAG0dVVbwn4/e065zrvRiUtGB6wwYDh90Q/edit?utm_content=DAG0dVVbwn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</p>
+<p align="left">presentaion by canva<br>https://www.canva.com/design/DAG0dVVbwn4/e065zrvRiUtGB6wwYDh90Q/edit?utm_content=DAG0dVVbwn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br><br>presentataion google drive <br>https://drive.google.com/file/d/1e7J8blf20s1nFixOym2VpjQXnKbU4u4R/view?usp=sharing<br><br>our website: https://sites.google.com/view/sanaaegy/home<br><br>facebook page: https://www.facebook.com/share/1K9s5vLysY/<br><br>instagram page : https://www.instagram.com/sanaa.egy?igsh=aWRncDQyNnJvdzIy</p>
 
 ###
 
